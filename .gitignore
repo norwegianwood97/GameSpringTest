@@ -1,0 +1,13 @@
+# Node.js 관련
+node_modules/
+dist/
+.env
+
+# IDE 및 OS 관련
+.DS_Store
+*.log
+*.tmp
+
+# 기타 필요 없는 파일/폴더
+.lh/
+.history/
